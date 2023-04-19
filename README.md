@@ -1,7 +1,7 @@
 # AnyStruct
 Attempting to Create a Struct Base Class to Solve Boxing
 
-> *Author: snoopyuj*  
+> *Author: bwaynesu*  
 > *Created: August 21, 2021 5:00 AM*  
 > *Tags: C#*
 
